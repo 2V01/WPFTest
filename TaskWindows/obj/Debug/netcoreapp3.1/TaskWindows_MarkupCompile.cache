@@ -1,0 +1,20 @@
+﻿TaskWindows
+
+
+winexe
+C#
+.cs
+D:\visual studio\project\TaskWindows\obj\Debug\netcoreapp3.1\
+TaskWindows
+none
+false
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
+D:\visual studio\project\TaskWindows\App.xaml
+2-60024866
+
+5-1117044847
+1921654412462
+MainWindow.xaml;TaskWindowSec.xaml;
+
+False
+
